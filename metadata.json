@@ -1,0 +1,6 @@
+{
+  "name": "WA Bot",
+  "description": "WhatsApp Business Bot and automated order taker with custom auto-replies, product catalog, delivery options, and live chat simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
